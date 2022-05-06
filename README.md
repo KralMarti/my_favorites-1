@@ -2,8 +2,8 @@
 <hr>
 
 ## :pushpin: Top 5-Liste
-- **Angular**
-- **Blender**
-- **GIMP**
-- **WINSCP**
-- **Notepad++**
+1. **Angular**
+2. **Blender**
+3. **GIMP**
+4. **WINSCP**
+5. **Notepad++**
